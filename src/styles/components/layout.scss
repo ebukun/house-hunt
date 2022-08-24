@@ -1,0 +1,9 @@
+.layout {
+	nav {
+		height: 65px;
+	}
+
+	main {
+		min-height: calc(100vh - 65px);
+	}
+}
