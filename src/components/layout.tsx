@@ -33,7 +33,7 @@ const Layout = ({ main }: Props) => {
 						</>
 					) : (
 						<>
-							<Link href="auth">
+							<Link href="/login">
 								<a>Login /Signup</a>
 							</Link>
 						</>
